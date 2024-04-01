@@ -15,7 +15,7 @@
 // 2 = 3 - 1
 // 3 = 2 + 1 (or 3 = 4 - 1)
 // 
-// [4, 2, 1] is a not a nice array because
+// [4, 2, 1] is a not a nice array becaus
 // 
 // for n = 4, there is neither n - 1 = 3 nor n + 1 = 5
 // Write a function named isNice/IsNice that returns true if its array argument is a Nice array, else false. An empty array is not considered nice.
