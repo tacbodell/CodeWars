@@ -6,7 +6,7 @@ A repository filled with codewars challenges (kata). Currently ranked top 100 in
 
 ## How It's Made:
 
-**Tech used:** Javascript, C++
+**Tech used:** Javascript and C++
 
 The first thing I do every day is solve a CodeWars problem!
 
