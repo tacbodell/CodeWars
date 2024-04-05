@@ -1,5 +1,5 @@
 # My Awesome Project
-A repository filled with codewars challenges (kata). Currently ranked top 100 in the #100Devs clan and pushing 10 solutions every week.
+A repository filled with codewars challenges (kata). Currently ranked top 100 in the #100Devs clan, with over 350 solved problems and pushing 10 solutions every week.
 
 ![codewars](https://github.com/tacbodell/codewars/assets/98131408/a999d8d6-5480-4c61-85c9-e6d8b9ea4156)
 
