@@ -3,5 +3,5 @@ function boolToWord( b ){
       throw 'Argument type is not bool';
     }
     
-    return b === true ? "Yes" : "No";
+    return b === true ? "Yes" : "No"
   }
