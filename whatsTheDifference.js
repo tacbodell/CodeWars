@@ -11,5 +11,5 @@ function diff(a, b){
       }
     })
     let noDuplicates = (new Set(...cache)).toArray;
-    return noDuplicates.sort();
+    return noDuplicates.sort()
   }
