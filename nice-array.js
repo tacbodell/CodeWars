@@ -2,7 +2,7 @@
 // 
 // examples:
 // 
-// [2, 10, 9, 3] is a nice array becaus
+// [2, 10, 9, 3] is a nice rray becaus
 // 
 //  2 =  3 - 1
 // 10 =  9 + 1
