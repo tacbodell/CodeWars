@@ -1,5 +1,5 @@
 // prep
-// p - two arrays of b's and w's
+// p - two arrays of bs and ws
 // r - child: if the arrays have between 1 and 2 differences. grandchild: between 0 and 4
 // e - const m1 = "BWBWBW";
 //      const m2 = "BWBWBB";
